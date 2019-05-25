@@ -86,7 +86,7 @@ body {
 }
 
 .bg1 {
-  background-image: url("C:/Users/ryo/Desktop/画像/Library/bloor.jpg");
+  background-image: url("bloor.jpg");
 }
 
 .grad {
@@ -123,7 +123,7 @@ iframe {
 }
 
 .bg2 {
-  background-image: url("C:/Users/ryo/Desktop/画像/Library/libBil.jpg");
+  background-image: url("libBil.jpg");
 }
 
 .scroll p {
@@ -133,7 +133,7 @@ iframe {
 }
 
 .bg3 {
-  background-image: url("C:/Users/ryo/Desktop/画像/Library/libIn2.jpg");
+  background-image: url("libIn2.jpg");
 }
 
 .bg-color3 p {
@@ -163,7 +163,7 @@ iframe {
 }
 
 .bg4 {
-  background-image: url("C:/Users/ryo/Desktop/画像/Library/libWat.jpg");
+  background-image: url("libWat.jpg");
   background-position: left 0px top 0;
   color:white;
   text-align: center;
