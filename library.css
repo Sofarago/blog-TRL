@@ -152,14 +152,14 @@ iframe {
 .bg-color4 p {
   width: 60%;
   float: left;
-  padding: 0 3% 5% 3%;
+  padding: 0 3% 5% 8%;
   box-sizing: border-box;
 }
 
 .bg-color4 img {
   width: 30%;
   display: block;
-  margin: 8% 5%;
+  margin: 8% 0;
 }
 
 .bg4 {
